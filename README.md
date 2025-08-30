@@ -1,16 +1,24 @@
-## Hi there 👋
+## Piotr Michalski
 
-<!--
-**Claverin/Claverin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about building scalable backend systems and exploring modern cloud & DevOps practices.  
+🏡 Based in Kraków, Poland
 
-Here are some ideas to get you started:
+## 💡 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a developer with a strong backend focus and a growing interest in cloud architecture and automation.  
+I enjoy solving real-world problems with clean code and well-thought-out infrastructure.  
+Currently working with C# and .NET, and gradually expanding into DevOps and Python.
+
+## 🔧 Tech Overview
+
+C#, .NET (ASP.NET Core, EF Core), Python
+TypeScript, Angular
+Bash, PowerShell, Python (for scripting & automation)
+Docker & Docker Compose
+MSQL, SQL Server, PostgreSQL, SQL Lite, MongoDb
+Azure & cloud-native services
+CI/CD pipelines & Infrastructure as Code (IaC)
+
+## 📫 Let’s Connect
+
+☕ [LinkedIn](https://www.linkedin.com/in/piotrmichalski98/)
