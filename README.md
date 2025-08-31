@@ -5,7 +5,7 @@
 
 ## 💡 About Me
 
-I’m a developer with a strong backend focus and a growing interest in cloud architecture and automation.  
+I am a developer with a strong backend focus and a growing interest in cloud architecture and automation.  
 I enjoy solving real-world problems with clean code and well-thought-out infrastructure.  
 Currently working with C# and .NET, and gradually expanding into DevOps and Python.
 
