@@ -11,7 +11,7 @@ Currently working with C# and .NET, and gradually expanding into DevOps and Pyth
 
 ## 🔧 Tech Overview
 
-C#, .NET (ASP.NET Core, EF Core) Python
+C#, .NET (ASP.NET Core, EF Core), Python
 TypeScript, Angular
 Bash, PowerShell, Python (for scripting & automation)
 Docker & Docker Compose
